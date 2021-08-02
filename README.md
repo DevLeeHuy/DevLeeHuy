@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, UI/UX design and RESTful API.
 - 🎓 &nbsp; Studying IT from HCM univercity of Technology and Eduction.
 - 💼 &nbsp; Fullstack web developer.
-- 🌱 &nbsp; Enthusiast in both client side and server side .
+- 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 🥊 &nbsp; And never forget training
