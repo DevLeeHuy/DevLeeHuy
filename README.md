@@ -9,7 +9,7 @@
 - 💼 &nbsp; Fullstack web developer.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
 - 🥊 &nbsp; And never forget training
 
 <h3>🗃️ Tech Stack</h3>
