@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning DevOps
+- 🔭 &nbsp; I’m currently learning Microservices.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, UI/UX design and RESTful API.
 - 🎓 &nbsp; Studying IT from HCM univercity of Technology and Eduction.
 - 💼 &nbsp; Fullstack web developer.
@@ -39,7 +39,7 @@
 
 
 <h3>💪🏻 Projects </h3>
-
+- 🐳 &nbsp; Online Fish shop: https://github.com/tmhhh/FishShop
 - 🍽️ &nbsp; Table reservation: https://github.com/DevLeeHuy/Table_Reservation
 - 👔 &nbsp; Clothing store: https://github.com/DevLeeHuy/Summer_Training-2021-
 
