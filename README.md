@@ -39,9 +39,9 @@
 
 
 <h3>💪🏻 Projects </h3>
-- 🐳 &nbsp; Online Fish shop: https://github.com/tmhhh/FishShop
-- 🍽️ &nbsp; Table reservation: https://github.com/DevLeeHuy/Table_Reservation
-- 👔 &nbsp; Clothing store: https://github.com/DevLeeHuy/Summer_Training-2021-
+- 🐳 &nbsp; Online Fish shop: https://github.com/tmhhh/FishShop <br>
+- 🍽️ &nbsp; Table reservation: https://github.com/DevLeeHuy/Table_Reservation <br>
+- 👔 &nbsp; Clothing store: https://github.com/DevLeeHuy/Summer_Training-2021- <br>
 
 <br>
 
