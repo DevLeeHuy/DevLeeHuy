@@ -57,7 +57,7 @@
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/Leehuy2909" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/quang-huy-le-48bb67210/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/c1dafa6ab9556f27e2b9a3a6e1f07630_low_res_1619104099625.png" width="50" /></a>
-&nbsp; <a href="mailto:huyle29092000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/7c2f79305b1b7dbbea936f5d66f4ee37_Google_Gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:huyle29092000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
 </p>
 
 
