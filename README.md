@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Microservices.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, UI/UX design and RESTful API.
-- 🎓 &nbsp; Studying IT from HCM univercity of Technology and Eduction.
+- 🎓 &nbsp; Studying IT from HCM university of Technology and Education.
 - 💼 &nbsp; Fullstack web developer.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
