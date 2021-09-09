@@ -67,11 +67,6 @@
   <img align="left" alt="JoeyLe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevLeeHuy&show_icons=true&hide_border=true" />
 
 </details>
-<details>
-  <summary>:zap: Most Used Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeeHuy&layout=compact)](https://github.com/DevLeeHuy/github-readme-stats)
-
-</details>
 
 
