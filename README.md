@@ -60,4 +60,19 @@
 &nbsp; <a href="mailto:huyle29092000@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
 </p>
 
+<h3>💶 More</h3>
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="JoeyLe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DevLeeHuy&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevLeeHuy&layout=compact)](https://github.com/DevLeeHuy/github-readme-stats)
+
+</details>
+
 
